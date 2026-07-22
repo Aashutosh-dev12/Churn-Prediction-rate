@@ -596,3 +596,11 @@ else:
       Fill in the customer details above and hit <strong>Run Prediction</strong>
     </div>
     """, unsafe_allow_html=True)
+
+# ── Footer ───────────────────────────────────────────────────────────────────
+st.markdown("""
+---
+<div style="text-align: center; color: #6b7280; font-family: 'DM Mono', monospace; font-size: 0.8rem; margin-top: 2rem; margin-bottom: 1rem;">
+  Created by <a href="https://github.com/Aashutosh-dev12" target="_blank" style="color: #00f0ff; text-decoration: none; font-weight: bold;">Aashutosh-dev12</a>
+</div>
+""", unsafe_allow_html=True)

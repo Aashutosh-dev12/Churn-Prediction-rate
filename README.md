@@ -59,3 +59,12 @@ Improved accuracy and generalization
 🔹 Deployment
 Built an interactive Streamlit web application
 Enabled real-time churn prediction
+
+---
+
+## 👤 Author & Maintainer
+
+**Aashutosh-dev12**  
+GitHub: [@Aashutosh-dev12](https://github.com/Aashutosh-dev12)  
+Repository: [Churn-Prediction-rate](https://github.com/Aashutosh-dev12/Churn-Prediction-rate)
+
